@@ -1,0 +1,92 @@
+:root{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-image: url(https://plus.unsplash.com/premium_photo-1672883551967-ab11316526b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card{
+ display: flex;
+ position: absolute;
+ letter-spacing: 2px;
+ flex-direction: column;
+ padding: 20px 25px;
+ border: 2px solid red;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-60%);
+ height: 65vh;
+ text-align: center;
+ gap: 15px;
+ background-color: hsla(60, 56%, 95%, 0.157);
+ box-shadow: rgba(245, 222, 179, 0.318) 5px 5px 1px;
+ border-radius: 5px;
+ font-weight:600 ;
+
+}
+
+.card >*{flex: 1 1 100%;}
+h1{font-size: 2.5rem;}
+input[type=text]{
+    width: 100%;
+    font-size: 1.5em;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.121);
+
+}
+input[type=password]{
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1.5em;
+    background-color: rgba(0, 0, 0, 0.121);
+
+}
+label{
+    font:1.5em;
+    font-size: 1.3em;
+
+}
+.Submit-Button{
+    width: 35%;
+    height: 5%;
+    padding: 15px 10px;
+    align-self: center;
+}
+.Submit-Button button{
+    width: 100%;
+    height: 60%;
+    padding: 15px 20px;
+    background-color: rgba(0, 0, 0, 0.24);
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: ease-in 0.2s;
+}
+.Submit-Button button:hover{scale: 1.05;}
+.Submit-Button button:focus{scale: 1.05;background-color:rgba(0, 0, 0, 0.099) ;}
+.I2 .fi{
+    top:60.5%;
+    left: 89%;
+    position: absolute;
+
+}
+@media all and (max-width:700px){
+    .I2 .fi{
+        top:62.5%;
+        left: 80%;
+        position: fixed;
+    
+    }
+}
+.signIn{
+    font-weight: 400;
+    color:#581df8;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.signIn:hover{color:hsla(256, 94%, 54%, 0.733)}

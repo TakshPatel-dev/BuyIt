@@ -1,0 +1,43 @@
+:root{
+    background-color: rgb(240, 248, 255);
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 4px;
+}
+.topNav{
+    width: 100%;
+    height: 20%;
+    border: 2px solid red;
+}
+.topNav li{list-style: none;}
+.Nav-Container-Header{
+    display: flex;
+    background-color:azure;
+    font-size: 5rem;
+    padding: 3.5rem;
+}
+.Nav-Container-Header > *{flex: 5 1 100%;align-self: center;}  
+.Nav-Container-Header img{
+    width:45%;
+    background:none;
+    mix-blend-mode:multiply;
+    align-self: self-start;
+    cursor: pointer;
+}
+.Nav-Container-Header span .fi{
+    font-size: 30px;
+    cursor: pointer;
+}
+.Nav-Container-Header span{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Nav-Container-Header span li a{text-decoration: none;cursor: pointer;}
+.Nav-Container-Header #user-buttons{display: flex; flex-direction: row;justify-content: center;margin-left: 20rem;}
+.Nav-Container-Header #user-buttons > *{align-self: flex-end;flex: 1 1 50%;font-size: 3rem;}
+.Nav-Container-Header #user-buttons > *
