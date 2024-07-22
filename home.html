@@ -16,34 +16,49 @@
     <div class="Main-Container">
        <header>
           <nav class="topNav">
+            <button class="Menu-Button"><i class="fi fi-rr-menu-burger"></i></button>
             <div class="Nav-Container-Header">
-                <span onclick="document.location.href=`home.html`"><img src="rego.png" alt="BuyIt logo-AIgen"></span>
+                
+               <span onclick="document.location.href=`home.html`"><img src="rego.png" alt="BuyIt logo-AIgen"></span>
+                
                 <span>
                     <i class="fi fi-rr-mobile-notch"></i>
                   <li><a href="">Mobiles</a></li>
                 </span>
+
                 <span>
                     <i class="fi fi-rs-laptop"></i>  
                   <li><a href="">Laptops</a></li>
                 </span>
+                
                 <span>
                     <i class="fi fi-rr-clothes-hanger"></i>
                   <li><a href="">Clothes</a></li>
                 </span>
+                
                 <span>
                     <i class="fi fi-rs-sunglasses"></i> 
                   <li><a href="">Accsessories</a></li>
                 </span>
+                
                 <span>
                     <i class="fi fi-rs-plate-utensils"></i>
                   <li><a href="">KitchenWares</a></li>
                 </span>
+                
                 <span id="user-buttons">
-                  <li><i class="fi fi-rs-user"><i class="fi fi-rr-angle-small-up"></i></i></li>
+                  <li id="drop-down-menu-parent"><i class="fi fi-rs-user"><i class="fi fi-rr-angle-small-up" id="arrow"></i></i></li>
                   <li><i class="fi fi-rs-shopping-cart"></i></li>
                 </span>
+            
             </div>
           </nav>
+          
+          <div class="drop-down-menu">
+            <a href="">LogOut</a>
+            <a href="">order</a>
+            <a href="">rewards</a>
+          </div>
        </header>
     </div>
     

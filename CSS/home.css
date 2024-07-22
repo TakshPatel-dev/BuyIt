@@ -10,6 +10,7 @@
     width: 100%;
     height: 20%;
     border: 2px solid red;
+
 }
 .topNav li{list-style: none;}
 .Nav-Container-Header{
@@ -17,14 +18,18 @@
     background-color:azure;
     font-size: 5rem;
     padding: 3.5rem;
+    flex-direction: row;
 }
 .Nav-Container-Header > *{flex: 5 1 100%;align-self: center;}  
 .Nav-Container-Header img{
-    width:45%;
+    width:19rem;
+    scale: 1.5;
     background:none;
     mix-blend-mode:multiply;
     align-self: self-start;
     cursor: pointer;
+    
+
 }
 .Nav-Container-Header span .fi{
     font-size: 30px;
@@ -35,9 +40,36 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
     
 }
-.Nav-Container-Header span li a{text-decoration: none;cursor: pointer;}
-.Nav-Container-Header #user-buttons{display: flex; flex-direction: row;justify-content: center;margin-left: 20rem;}
+.Nav-Container-Header span li a{text-decoration: none;cursor: pointer;font-weight: 500;}
+.Nav-Container-Header #user-buttons{display: flex; flex-direction: row;justify-content: center;margin-left: 20rem; }
 .Nav-Container-Header #user-buttons > *{align-self: flex-end;flex: 1 1 50%;font-size: 3rem;}
-.Nav-Container-Header #user-buttons > *
+.Nav-Container-Header #user-buttons :first-child{position: relative;}
+.drop-down-menu{
+    position: absolute;
+    display:none;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 10px;
+    width: 40rem;
+    height: 40rem;
+    font-size: 6rem;
+    left: 85%;
+    border: 2px solid hsl(271, 76%, 53%);
+    box-shadow: 2px 2px 1px hsl(271, 76%, 53%);     
+}
+.drop-down-menu a{text-decoration: none;font-weight: 500;}
+.drop-down-menu >*{margin-top: 5rem;}
+.Menu-Button{display: none;}
+@media all and (max-width: 1000px){
+.Nav-Container-Header{flex-direction: row;flex-wrap: wrap;}
+.Nav-Container-Header span{flex: 1 1 40%;}
+.Nav-Container-Header:first-child{flex-basis: 100%;}
+
+.Nav-Container-Header #user-buttons{margin-left: 0;flex-direction: row; justify-content: center;text-align: center;}
+.Nav-Container-Header :nth-child(1){flex-basis: 100%;align-self: center;}
+.Nav-Container-Header :nth-child(6){flex-basis: 100%; align-self: center;}
+.drop-down-menu{left: 25%;}
+}
