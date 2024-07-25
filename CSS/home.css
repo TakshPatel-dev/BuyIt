@@ -67,10 +67,50 @@ body{margin: 0;}
     font-size: 6rem;
     left: 85%;
     border: 2px solid hsl(271, 76%, 53%);
-    box-shadow: 2px 2px 1px hsl(271, 76%, 53%);     
+    box-shadow: 2px 2px 1px hsl(271, 76%, 53%);
+    z-index: 2;     
 }
 .drop-down-menu a{text-decoration: none;font-weight: 500;}
 .drop-down-menu >*{margin-top: 5rem;}
+.slider{display: none;margin-top: 15px;cursor: pointer;}
+.prev, .next{
+    font-size: 8rem;
+    cursor: pointer;
+    position: absolute;
+    top: 29%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: rgb(20, 8, 8);
+    font-weight: bold;
+    transition: 0.2s ease-in;
+    border: 0 3px 3px 0;
+    user-select: none;
+}
+.prev:hover, .next:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.fade{
+    animation: fade;
+    animation-duration: 1.5s;
+}
+.dot{
+    cursor: pointer;
+    height: 1vh;
+    width: 2%;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 500px;
+    display: inline-block;
+    transition:background-color 0.6s ease ;
+    transform: translateY(-20px);
+}
+.active, .dot:hover {
+    background-color: #a46610;
+  }
+  
+.next{right: 0;border-radius: 3px 0 0 3px;}
 @media all and (max-width: 1000px){
 .Nav-Container-Header{flex-direction: row;flex-wrap: wrap;max-height:fit-content;}
 .Nav-Container-Header span{flex: 1 1 40%;}
@@ -79,4 +119,13 @@ body{margin: 0;}
 .Nav-Container-Header :nth-child(1){flex-basis: 100%;align-self: center;}
 .Nav-Container-Header :nth-child(6){flex-basis: 100%; align-self: center;}
 .drop-down-menu{left: 25%;}
+.prev,.next{
+    top:100%;
+    font-size:4rem ;
 }
+
+}
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
