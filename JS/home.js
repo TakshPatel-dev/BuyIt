@@ -31,3 +31,7 @@ function currentSlide(n){
     clearInterval(genslide)
 
 }
+let y = fetch(`items.json`).then(res => res.json()).then(res => k.push(res))
+let k = []
+
+

@@ -1,0 +1,322 @@
+{
+    "mobile": [
+      {
+        "name": "OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)",
+        "price": "19,999",
+        "image": "https://m.media-amazon.com/images/I/61Io5-ojWUL._SX679_.jpg",
+        "image1": "https://m.media-amazon.com/images/I/51rzPGs8tEL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/51Y-8Iwvx2L._SX679_.jpg"
+      },
+      {
+        "name": "iQOO Z9 Lite 5G (Aqua Flow, 6GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The box",
+        "price": "11,498",
+        "image": "https://m.media-amazon.com/images/I/61WZicN+coL._SX679_.jpg",
+        "image1": "https://m.media-amazon.com/images/I/71k3f4L1bhL._SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71580M7qLKL._SX679_.jpg"
+      },
+      {
+        "name":"Redmi 13 5G, Hawaiian Blue, 6GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+        "price":"13,999",
+        "image":"https://m.media-amazon.com/images/I/81weRj535kL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71CgI7hYXGL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71ZZuBS2mvL._SX679_.jpg"
+      },
+      {
+        "name":"Motorola razr 40 ultra (Peach Fuzz, 8GB RAM, 256GB Storage) | 3.6( external AMOLED display | 6.9) AMOLED 165Hz display | 32MP selfie camera |30W TurboPower charging | Android 13",
+        "price":"69,999",
+        "image":"https://m.media-amazon.com/images/I/61UDI-pyP7L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61ubWM9+xHL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/61BzJsgGUfL._SX679_.jpg"
+      },
+      {
+        "name":"Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)",
+        "price":"1,29,999",
+        "image":"https://m.media-amazon.com/images/I/71RVuBs3q9L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71ZdFihN4YL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71RaUP4g7KL._SX679_.jpg"
+      },
+      {
+        "name":"Samsung Galaxy Tab S9 27.81 cm (11 inch) Dynamic AMOLED 2X Display, RAM 12 GB, ROM 256 GB Expandable, S Pen in-Box, Wi-Fi + 5G Tablet, Beige",
+        "price":"89,999",
+        "image":"https://m.media-amazon.com/images/I/61XEz+2Qw6L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/81quoBE+AYL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/81DAgry6t3L._SX679_.jpg"
+      },
+      {
+        "name":"HONOR X9b 5G (Midnight Black, 8GB + 256GB) | India's First Ultra-Bounce Anti-Drop Curved AMOLED Display | 5800mAh Battery | 108MP Primary Camera | without Charger",
+        "price":"21,999",
+        "image":"https://m.media-amazon.com/images/I/71H5JOOMacL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/716RJpNcb7L._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71Mo2bCkImL._SX679_.jpg"
+      },
+      {
+        "name":"Redmi Note 13 Pro (Midnight Black, 8GB RAM, 128GB Storage) | 1.5K AMOLED | 200MP Hi-Res Camera | Flagship 4nm SD 7s Gen 2 | 67W TurboCharge",
+        "price":"24,999",
+        "image":"https://m.media-amazon.com/images/I/7169hX0S18L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/613YYQb2PPL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/61fbhARQg3L._SX679_.jpg"
+      },
+      {
+        "name":"POCO C65 (Pastel Blue 4GB RAM 128GB Storage)",
+        "price":"6,999",
+        "image":"https://m.media-amazon.com/images/I/51tnE-mAr6L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/51htJ6-f8KL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/51vw8MzhEQL._SX679_.jpg"
+      },
+
+      {
+        "name":"Redmi A3 (Olive Green, 6GB RAM, 128GB Storage) | Premium Halo Design | 90Hz Display | Powerful 4G G36 Processor",
+        "price":"8,999",
+        "image":"https://m.media-amazon.com/images/I/71dJSabHYiL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71n2IqAR1bL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71+dXrmkMWL._SX679_.jpg"
+      }
+    ],
+    "laptop":[
+      
+      {
+        "name":"Acer Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop (Windows 11 Home/8 GB RAM/512GB SSD) AL15-52, 39.62cm (15.6) Full HD Display, Metal Body, Steel Gray, 1.59 Kg",
+        "price":"33,990",
+        "image":"https://m.media-amazon.com/images/I/71czGb00k5L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/91osomWARhL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71xcBBdAX9L._SX679_.jpg"
+      },
+        
+      {
+        "name":"ASUS TUF F15 Gaming Laptop, Intel Core i5-11400H 11th Gen, 15.6-inch (39.62 cm) FHD 144Hz,(16GB RAM/512GB SSD/4GB NVIDIA GeForce RTX 2050/Windows 11/ RGB Backlit KB/Black/2.30 kg), FX506HF-HN025W",
+        "price":"52,990",
+        "image":"https://m.media-amazon.com/images/I/71l1MOx3Q+L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71bVMtDKytL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/710gjmwJBcL._SX679_.jpg"
+      },
+        
+      {
+        "name":"Lenovo IdeaPad Pro 5 Intel Evo Core Ultra 9 185H Built-in AI 14 (35.56cm) 2.8K-OLED 400Nits 120Hz Laptop (32GB/1TB SSD/Win11/MSO 21/FHD+IR Camera/1Yr ADP Free/3 Mon Game Pass/Grey/1.4Kg), 83D2001GIN",
+        "price":"1,07,990",
+        "image":"https://m.media-amazon.com/images/I/81Ev2S5nrVL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71Jm-6UqykL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71vTIZjsiQL._SX679_.jpg"
+      },
+        
+      {
+        "name":"HP Laptop 15s, AMD Ryzen 5 5500U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, AMD Radeon graphics, 720p HD camera, Backlit KB, Thin & Light (Win 11, MSO 2021, Silver, 1.69 kg), eq2182AU",
+        "price":"42,085",
+        "image":"https://m.media-amazon.com/images/I/719ybm6QCaL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71pXSonkMuL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71gk972hLZL._SX679_.jpg"
+      },
+        
+      {
+        "name":"Apple 2023 MacBook Pro (16-inch, M3 Max chip with 14‑core CPU and 30‑core GPU, 36GB Unified Memory, 1TB) - Space Black",
+        "price":"3,34,900",
+        "image":"https://m.media-amazon.com/images/I/618d5bS2lUL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/7135DkWwJVL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/715lpOW+5RL._SX679_.jpg"
+      },
+        
+      {
+        "name":"Apple 2023 MacBook Pro laptop M2 Max chip with 12‑core CPU and 38‑core GPU: 33.74 cm (16.2-inch), 32GB Unified Memory, 1TB SSD storage. Works with iPhone/iPad; Space Grey",
+        "price":"3,49,900",
+        "image":"https://m.media-amazon.com/images/I/61Ph34V0YAL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/916BSI-wrhL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/812j+w5rRIL._SX679_.jpg"
+      },
+        
+      {
+        "name":"HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H,4GB RTX 2050 GPU,15.6-inch(39.6 cm),FHD,IPS,144Hz,16GB DDR4,512GB SSD,Backlit KB,MSO,B&O,9ms response time(Blue, 2.29 kg),fa1373TX/fa1227TX",
+        "price":"58,355",
+        "image":"https://m.media-amazon.com/images/I/71Qvn-BF4XL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/81hVjLfrunL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/81wq34L4gyL._SX679_.jpg"
+      },
+        
+      {
+        "name":"MSI Thin 15, Intel Core i5-12450H, 40CM FHD 144Hz Gaming Laptop(16GB/512GB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 2050,GDDR 4GB /Cosmos Gray/1.86Kg), B12UCX-1695IN",
+        "price":"53,990",
+        "image":"https://m.media-amazon.com/images/I/71VG3azYMjL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61duBAD+knL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/711P2xZrlyL._SX679_.jpg"
+      }
+    
+    
+    
+    ],
+    "clothes":[
+      
+      {
+      "name":"Van Heusen Men's Solid Polo T Shirt",
+      "price":"799",
+      "image":"https://m.media-amazon.com/images/I/71WBVg0YE8L._SX569_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/91DCT5z3IKL._SX569_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/91y0UpnOTrL._SX569_.jpg"
+      },
+      {
+      "name":"GoSriKi Women's Rayon Blend Printed Straight Kurta with Pant & Dupatta",
+      "price":"659",
+      "image":"https://m.media-amazon.com/images/I/61aqw28w9XL._SY741_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/71c6r4+iQmL._SY741_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/71Ai+aSdggL._SY741_.jpg"
+      },
+      {
+      "name":"Amazon Brand - Symbol Men's Cotton Rich Polo T Shirt | Collar Tshirts | Half Sleeves | Plain-Regular Fit",
+      "price":"379",
+      "image":"https://m.media-amazon.com/images/I/713n+TxyfCL._SX569_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/91S76xHas-L._SX569_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/71ajheDyuAL._SY741_.jpg"
+      },
+      {
+      "name":"SELLORIA Brand Soft Cotton Adjustable Unisex Cap for Men and Women Freesize Baseball Caps (Pack of 2)",
+      "price":"399",
+      "image":"https://m.media-amazon.com/images/I/61oXH0-iKkL._SX569_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61TlmQK0asL._SX679_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/61X21wtJLCL._SX679_.jpg"
+      },
+      {
+      "name":"JUARI BE A GENTLEMAN Cotton Blend Assorted Ankle Length Socks For Men And Women (Pack Of 4)",
+      "price":"199",
+      "image":"https://m.media-amazon.com/images/I/71WU9OZ7bYL._SY741_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61MdfU8m+9L._SX679_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/61A9EDqeFWL._SX679_.jpg"
+      },
+      {
+      "name":"Robustt Unisex Raincoat With Hood | Waterproof Rain Poncho | EVA Material | Reusable | Lightweight | Universal Size | Raincoat for Men and Women",
+      "price":"199",
+      "image":"https://m.media-amazon.com/images/I/51RI+KvK+lL.jpg",
+      "image1":"https://m.media-amazon.com/images/I/8183uyXbZ5L._SX679_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/715oYSb2jeL._SX679_.jpg"
+      },
+      {
+      "name":"minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)",
+      "price":"599",
+      "image":"https://m.media-amazon.com/images/I/71G6UQ0ZUeL._SX679_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61ViUyj8ERL._SY741_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/51VtDW7lImL._SY741_.jpg"
+      }
+    ],
+    "Accessories":[
+      {
+      "name":"boAt Airdopes Atom 81 in Ear TWS Earbuds with Upto 50H Playtime, Quad Mics ENx Tech, 13MM Drivers,Super Low Latency(50ms), ASAP Charge, BT v5.3(Opal Black)",
+      "price":"1,099",
+      "image":"https://m.media-amazon.com/images/I/61yyQD1KLOL._SX522_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61aaos19uXL._SX522_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/61gAcTx3SbL._SX522_.jpg"
+      },
+      {
+      "name":"Boya ByM1 Auxiliary Omnidirectional Lavalier Condenser Microphone with 20ft Audio Cable (Black)",
+      "price":"809",
+      "image":"https://m.media-amazon.com/images/I/41VsT+KDr-L._SY300_SX300_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61ED1haYSRL._SX679_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/51mrZ4r1biL._SX679_.jpg"
+      },
+      {
+      "name":"Syvo WT 3130 Aluminum Tripod (133CM), Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, Gopro, Cameras",
+      "price":"799",
+      "image":"https://m.media-amazon.com/images/I/61H1dMNTSnL._SX522_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61e3oImil3L._SX522_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/71RxnqJnHGL._SX522_.jpg"
+      },
+      {
+      "name":"IZI Mini X Nano Fly More Combo 4K Camera Drone UHD 20MP, CMOS,4KM Live Video, 93-min Flight Time, GPS, 3-Axis Gimbal, 10+Flight Modes, 3xSmart Battery, Fast Tri-Charger, Under 249g UAV - 1 Yr Warranty",
+      "price":"38,999",
+      "image":"https://m.media-amazon.com/images/I/41nEdiEA7zL._SX300_SY300_QL70_FMwebp_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/81sqOqsWB3L._SX522_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/81B7FJ2GxRL._SX522_.jpg"
+      },
+      {
+      "name":"Vista Max Cut & Glaze 100gm | Rubbing Compound | Remove Minor Scratches, Swirl Marks from Painted Surfaces of Cars, Bike, Motorbikes",
+       "price":"185",
+       "image":"https://m.media-amazon.com/images/I/61s5DBZqVpL._SX522_.jpg",
+       "image1":"https://m.media-amazon.com/images/I/61-5eqpvFuL._SX522_.jpg",
+       "image2":"https://m.media-amazon.com/images/I/61koQ88-3EL._SX522_.jpg"
+       },
+       {
+       "name":"Fuelbyte 5 PCs Microfiber Car Duster with Long Handle Car Cleaning Brush Exteriror and Interiror Car Cleaning Cloth Car Ac Vent Cleaner Brush for Car, Motorbike, SUVs Car Cleaning Kit (A1)",
+       "price":"499",
+       "image":"https://m.media-amazon.com/images/I/71XQot6RrsL._SX522_.jpg",
+       "image1":"https://m.media-amazon.com/images/I/71puShgOkrL._SX522_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71S-fj4s5zL._SX522_.jpg"
+        },
+        {
+        "name":"Himalaya Herbals Purifying Neem Pack, 100g Packaging might differ",
+        "price":"107",
+        "image":"https://m.media-amazon.com/images/I/61d8kAdBWqL._SX522_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/615HFiBxcXL._SX522_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/61RGI1OvX5L._SX522_.jpg"
+        },
+        {
+        "name":"Zebronics ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker With Supporting Carry Handle, USB, SD Card, AUX, FM & Call Function. (Black)",
+        "price":"449",
+        "image":"https://m.media-amazon.com/images/I/71wAXhzCmnS._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61IVaSPgA6L._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/51AjZiRHPtL._SX679_.jpg"
+        }   
+
+    ],
+    "kitchen":[
+        {
+        "name":"P-TAL Brass Roti Tawa 26cm Teflon Free Non-Toxic Tawa for Roti with PVC Handle Ptal Brass Utensils",
+        "price":"2,799",
+        "image":"https://m.media-amazon.com/images/I/91evx5sd3VL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71WRar02m+L._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71WVN6VSmrL._SX679_.jpg"  
+        },
+        {
+        "name":"TRAMONTINA Fusao Healthy Triply Ceramic 30cm/5.7L Kadai with SS 304 lid | Non Toxic Kadhai(PFAS/PTFE/PFOA Free) Curry | Deep Fry | StirFry | Induction Friendly | Stay Cool Handle I 10 year Warranty*",
+        "price":"7,199",
+        "image":"https://m.media-amazon.com/images/I/516bPPJALVL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61v8EB19KVL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/6126Qp80+nL._SX679_.jpg"  
+        },
+        {
+        "name":"AGARO Royal Silicone Spatula Set of 5, Cooking and Mixing, for Non-Stick Cookware, BPA Free, Seamless Design, Grey",
+        "price":"749",
+        "image":"https://m.media-amazon.com/images/I/41MQxL-KdoL._SX300_SY300_QL70_FMwebp_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/81LpfwwWCxL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/81t61ZFs5DL._SX679_.jpg"  
+        },
+        {
+        "name":"Teabox Butterfly Blue Pea Flower | Aparajita Tea | Colour Changing Tea | Can Make - Hot Tea, Iced Tea, Mocktails, Cocktails | 0% Caffeine",
+        "price":"294",
+        "image":"https://m.media-amazon.com/images/I/615su1qLL2L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71R2AzdkL2L._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71u5EWQKU6L._SX679_.jpg"  
+        },
+        {
+        "name":"Frenchware Non-Stick Premium Silicone Spatula (Large Spatula & Large Spoon, Red) for Cooking, Baking & Mixing, Seamless Design",
+        "price":"279",
+        "image":"https://m.media-amazon.com/images/I/41AmKeEwcCL._SX300_SY300_QL70_FMwebp_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/712hCXufn7L._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/71Q48CvHKKL._SX679_.jpg"  
+        },
+        {
+        "name":"Cello Opalware Dazzle Series Tropical Lagoon Dinner Set, 18 Units | Light-Weight, Daily Use Crockery Set for Dining | White Plate and Bowl Set",
+        "price":"1,299",
+        "image":"https://m.media-amazon.com/images/I/61xuWKedmVL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61HTVCHLIgS._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/8179VacHrHL._SX679_.jpg"  
+        }
+        , {
+        "name":"CELLO Opalware Green Orchard Mixing Bowls with Lid (500ml, 1000ml, 1500ml), 3 Units, White",
+        "price":"799",
+        "image":"https://m.media-amazon.com/images/I/51HA8CidqXL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/61YB0njE6vL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/61ssyjeugkL._SX679_.jpg"  
+        },
+        {
+        "name":"PUTHAK Mixing Bowl Set of 4 Multicolour (Set of 4, Mini, Small, Medium, Large)",
+        "price":"349",
+        "image":"https://m.media-amazon.com/images/I/51Dbp6HhftL._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/51Dbp6HhftL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/41ENmxXPOVL._SX679_.jpg"  
+        },
+        {
+        "name":"Butterfly Premium Vegetable Chopper 900 Ml, Blue",
+        "price":"299",
+        "image":"https://m.media-amazon.com/images/I/61fPH47Hd0L._SX679_.jpg",
+        "image1":"https://m.media-amazon.com/images/I/71nHLzPxiwL._SX679_.jpg",
+        "image2":"https://m.media-amazon.com/images/I/61BB70rG0WL._SX679_.jpg"  
+        }     
+    ]
+
+  }
+  
